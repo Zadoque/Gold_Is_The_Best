@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const counter = document.getElementById('supporters-count');
         const target = campaignData.supporters;
         let current = 0;
-        const increment = target / 100;
+        const increment = 1;
         const duration = 2000;
         const interval = duration / 100;
 
