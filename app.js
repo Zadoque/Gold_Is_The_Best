@@ -3,9 +3,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Dados da campanha
     const campaignData = {
-        supporters: 1247,
-        votes: "98.7%",
-        countries: 47
+        supporters: 2865,
+        votes: "99.7%",
+        countries: 48
     };
 
     // Configuração de partículas
